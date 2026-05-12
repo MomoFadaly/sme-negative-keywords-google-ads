@@ -1,0 +1,605 @@
+{
+  "total_concepts": 100,
+  "concepts": [
+    {
+      "name": "negative-keywords",
+      "status": "exploring",
+      "mention_count": 367,
+      "score": 0.5
+    },
+    {
+      "name": "search-terms-report",
+      "status": "exploring",
+      "mention_count": 105,
+      "score": 0.5
+    },
+    {
+      "name": "negative-keyword-list",
+      "status": "exploring",
+      "mention_count": 27,
+      "score": 0.5
+    },
+    {
+      "name": "campaign-level-negatives",
+      "status": "exploring",
+      "mention_count": 26,
+      "score": 0.5
+    },
+    {
+      "name": "broad-match",
+      "status": "exploring",
+      "mention_count": 26,
+      "score": 0.5
+    },
+    {
+      "name": "negative-keyword-lists",
+      "status": "exploring",
+      "mention_count": 24,
+      "score": 0.5
+    },
+    {
+      "name": "match-types",
+      "status": "exploring",
+      "mention_count": 23,
+      "score": 0.5
+    },
+    {
+      "name": "account-level-negatives",
+      "status": "exploring",
+      "mention_count": 22,
+      "score": 0.5
+    },
+    {
+      "name": "negative-broad-match",
+      "status": "exploring",
+      "mention_count": 20,
+      "score": 0.5
+    },
+    {
+      "name": "wasted-spend",
+      "status": "exploring",
+      "mention_count": 18,
+      "score": 0.5
+    },
+    {
+      "name": "keyword-planner",
+      "status": "exploring",
+      "mention_count": 17,
+      "score": 0.5
+    },
+    {
+      "name": "negative-exact-match",
+      "status": "exploring",
+      "mention_count": 17,
+      "score": 0.5
+    },
+    {
+      "name": "smart-bidding",
+      "status": "exploring",
+      "mention_count": 16,
+      "score": 0.5
+    },
+    {
+      "name": "ad-group-level-negatives",
+      "status": "exploring",
+      "mention_count": 14,
+      "score": 0.5
+    },
+    {
+      "name": "competitor-negatives",
+      "status": "exploring",
+      "mention_count": 13,
+      "score": 0.5
+    },
+    {
+      "name": "n-gram-analysis",
+      "status": "exploring",
+      "mention_count": 13,
+      "score": 0.5
+    },
+    {
+      "name": "exact-match",
+      "status": "exploring",
+      "mention_count": 12,
+      "score": 0.5
+    },
+    {
+      "name": "negative-phrase-match",
+      "status": "exploring",
+      "mention_count": 12,
+      "score": 0.5
+    },
+    {
+      "name": "pre-launch-negatives",
+      "status": "exploring",
+      "mention_count": 11,
+      "score": 0.5
+    },
+    {
+      "name": "performance-max",
+      "status": "exploring",
+      "mention_count": 11,
+      "score": 0.5
+    },
+    {
+      "name": "roas",
+      "status": "exploring",
+      "mention_count": 9,
+      "score": 0.5
+    },
+    {
+      "name": "exact-match-negative",
+      "status": "exploring",
+      "mention_count": 9,
+      "score": 0.5
+    },
+    {
+      "name": "claude-code",
+      "status": "exploring",
+      "mention_count": 9,
+      "score": 0.5
+    },
+    {
+      "name": "phrase-match",
+      "status": "exploring",
+      "mention_count": 8,
+      "score": 0.5
+    },
+    {
+      "name": "negative-match-types",
+      "status": "exploring",
+      "mention_count": 8,
+      "score": 0.5
+    },
+    {
+      "name": "google-shopping",
+      "status": "exploring",
+      "mention_count": 8,
+      "score": 0.5
+    },
+    {
+      "name": "claude-skill",
+      "status": "exploring",
+      "mention_count": 8,
+      "score": 0.5
+    },
+    {
+      "name": "close-variants",
+      "status": "exploring",
+      "mention_count": 7,
+      "score": 0.5
+    },
+    {
+      "name": "search-intent",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "ecommerce-google-ads",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "free-keyword",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "out-of-area-negatives",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "search-campaign",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "over-negativing",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "negative-broad",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "broad-match-negative",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "phrase-match-negative",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "google-ads-ui",
+      "status": "exploring",
+      "mention_count": 6,
+      "score": 0.5
+    },
+    {
+      "name": "shared-negative-list",
+      "status": "exploring",
+      "mention_count": 5,
+      "score": 0.5
+    },
+    {
+      "name": "competitor-bidding",
+      "status": "exploring",
+      "mention_count": 5,
+      "score": 0.5
+    },
+    {
+      "name": "google-ads-scripts",
+      "status": "exploring",
+      "mention_count": 5,
+      "score": 0.5
+    },
+    {
+      "name": "prebuilt-negative-list",
+      "status": "exploring",
+      "mention_count": 5,
+      "score": 0.5
+    },
+    {
+      "name": "csv-export",
+      "status": "exploring",
+      "mention_count": 5,
+      "score": 0.5
+    },
+    {
+      "name": "google-ads-api",
+      "status": "exploring",
+      "mention_count": 5,
+      "score": 0.5
+    },
+    {
+      "name": "cost-per-click",
+      "status": "exploring",
+      "mention_count": 5,
+      "score": 0.5
+    },
+    {
+      "name": "match-type-behavior",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "review-cadence",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "branded-negatives",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "free-negative",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "b2b-search",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "conversion-probability",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "over-blocking",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "agency-workflow",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "keyword-match-types",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "negative-phrase",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "negative-exact",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "keywords-report",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "llm-tooling",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "claude-skills",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "themed-negative-lists",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "ai-negative-mining",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "shared-exclusion-lists",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "claude-project",
+      "status": "exploring",
+      "mention_count": 4,
+      "score": 0.5
+    },
+    {
+      "name": "expansive-matching",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "refine-keywords",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "conversion-volume",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "conversion-tracking",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "bid-calibration",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "brand-negatives",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "match-type-syntax",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "pre-launch-negative-list",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "intent-based-negatives",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "home-services-vertical",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "messy-middle",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "campaign-negatives",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "negative-scope",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "competitor-brand-negatives",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "swot-analysis",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "duplicate-keywords",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "budget-reallocation",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "google-keyword-planner",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "return-on-ad-spend",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "intent-negatives",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "intent-preservation",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "negative-keyword-review",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "location-negatives",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "negative-keyword-threshold",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "claude-chat",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "human-in-the-loop",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "ai-assisted-nk-mining",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "account-average-cpc",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "rationale-driven-negation",
+      "status": "exploring",
+      "mention_count": 3,
+      "score": 0.5
+    },
+    {
+      "name": "shared-library",
+      "status": "exploring",
+      "mention_count": 2,
+      "score": 0.5
+    },
+    {
+      "name": "pre-built-negative-lists",
+      "status": "exploring",
+      "mention_count": 2,
+      "score": 0.5
+    },
+    {
+      "name": "intent-quality",
+      "status": "exploring",
+      "mention_count": 2,
+      "score": 0.5
+    },
+    {
+      "name": "cheap-negative",
+      "status": "exploring",
+      "mention_count": 2,
+      "score": 0.5
+    },
+    {
+      "name": "universal-negatives",
+      "status": "exploring",
+      "mention_count": 2,
+      "score": 0.5
+    },
+    {
+      "name": "buyer-intent",
+      "status": "exploring",
+      "mention_count": 2,
+      "score": 0.5
+    },
+    {
+      "name": "irrelevant-traffic",
+      "status": "exploring",
+      "mention_count": 2,
+      "score": 0.5
+    },
+    {
+      "name": "lead-gen",
+      "status": "exploring",
+      "mention_count": 2,
+      "score": 0.5
+    }
+  ]
+}

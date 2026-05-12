@@ -1,0 +1,170 @@
+{
+  "claims": [
+    {
+      "claim_id": 45,
+      "claim_text": "Negative keywords let you exclude search terms from your campaigns to focus on the keywords that matter to your customers.",
+      "taxonomy": "factual",
+      "sub_taxonomy": "platform_state",
+      "source_quote": "negative keyword words let you exclude Search terms from your campaigns and help you focus on only the keywords that matter to your customers",
+      "source_practitioner": "Grow My Ads",
+      "video_url": "https://www.youtube.com/watch?v=HvxLB3w7Sb8",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 63,
+      "claim_text": "Negative-keyword match types behave fundamentally differently from positive match types.",
+      "taxonomy": "factual",
+      "sub_taxonomy": "platform_state",
+      "source_quote": "they do not operate at all like positive keywords so with positive keywords exact match pretty much operates like a phrase match anymore phrase operates almost like broad match modifi did back in the day...with negative keywords though here's how they work",
+      "source_practitioner": "Grow My Ads",
+      "video_url": "https://www.youtube.com/watch?v=HvxLB3w7Sb8",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 98,
+      "claim_text": "He maintains a prebuilt list of 2,300+ negative keywords compiled over nine years and applies it to every new campaign before turning it on.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "stat",
+      "source_quote": "I've compiled the list of more than 2,300 negative keywords... we actually add these keywords to our campaigns before we ever turn them on.",
+      "source_practitioner": "Mike Mancini",
+      "video_url": "https://www.youtube.com/watch?v=5ZAGnj9w_4I",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 103,
+      "claim_text": "Google can show your ads on searches that are not relevant to your product or service, wasting budget and reducing ROAS.",
+      "taxonomy": "factual",
+      "sub_taxonomy": "platform_state",
+      "source_quote": "sometimes Google can show your ads on searches that are not relevant to your product or service ... wasting your budget and reducing your roas",
+      "source_practitioner": "Max | Google Ads Nerd",
+      "video_url": "https://www.youtube.com/watch?v=odn8Iv9m3ug",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 124,
+      "claim_text": "Per a Google study, simply giving a shopper the option to choose a second-choice brand was enough to entice 30% away from their initial choice.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "stat",
+      "source_quote": "according to this study from Google simply giving the Shopper the option to choose their second choice brand was enough to entice 30% away from their initial Choice",
+      "source_practitioner": "Max | Google Ads Nerd",
+      "video_url": "https://www.youtube.com/watch?v=odn8Iv9m3ug",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 131,
+      "claim_text": "Account-level negative keyword list has a maximum of 1,000 keywords.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "benchmark",
+      "source_quote": "Maximum limit is thousand. You can add thousand keywords at the account.",
+      "source_practitioner": "Ammar | Google Ads For Leads",
+      "video_url": "https://www.youtube.com/watch?v=VPs_XJQ71R0",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 167,
+      "claim_text": "When increasing or decreasing budgets on a high-performing campaign, don't change the effective budget by more than 20% at a time.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "benchmark",
+      "source_quote": "you're not increasing that budget or effectively increasing that budget by more than 20%.",
+      "source_practitioner": "Aaron Young",
+      "video_url": "https://www.youtube.com/watch?v=BUVmYERVFsM",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 176,
+      "claim_text": "The example account spends roughly $30,000/month, and at this scale n-gram/SWOT reporting becomes 'invaluable' for finding where to focus.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "benchmark",
+      "source_quote": "this account is spending about $30,000 a month. So, as you can see, especially when you're getting into a larger account, this report becomes invaluable",
+      "source_practitioner": "Aaron Young",
+      "video_url": "https://www.youtube.com/watch?v=BUVmYERVFsM",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 178,
+      "claim_text": "Without negative keywords, advertisers can lose 30%, 50%, or 70% of their budget to irrelevant searches.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "range",
+      "source_quote": "you could easily lose 30% 50% 70% of your budget like I've seen this in action that really can happen",
+      "source_practitioner": "Ben Heath - Google Ads",
+      "video_url": "https://www.youtube.com/watch?v=gsc83TyoUtQ",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 237,
+      "claim_text": "Free n-gram scripts are publicly available via a quick Google search.",
+      "taxonomy": "factual",
+      "sub_taxonomy": "platform_state",
+      "source_quote": "If you do a quick Google search, there are free ones out there.",
+      "source_practitioner": "Grow My Ads",
+      "video_url": "https://www.youtube.com/watch?v=9Hn1QuAwsas",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 262,
+      "claim_text": "Google is significantly redacting search-terms data, with some clients seeing 80% of search terms hidden, allegedly for privacy.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "stat",
+      "source_quote": "I have clients right now who are missing out on 80% of their search terms data... Google sites privacy is the reason for redacting so many search terms. I don't buy it. It's BS",
+      "source_practitioner": "Darren Taylor",
+      "video_url": "https://www.youtube.com/watch?v=gSptKCsMUEo",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 276,
+      "claim_text": "Heath's agency manages 523,782 negative keywords across all client accounts to maximize ROAS.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "stat",
+      "source_quote": "It is currently 523,782.",
+      "source_practitioner": "Ben Heath",
+      "video_url": "https://www.youtube.com/watch?v=EIAM1OUTMUY",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 314,
+      "claim_text": "The agent processes search terms in batches of roughly 120 terms; one batch on Gemini 3 Pro takes about 60\u201378 seconds, so ~1,000 terms takes roughly 10+ minutes.",
+      "taxonomy": "numerical",
+      "sub_taxonomy": "benchmark",
+      "source_quote": "it's going to analyze 120 search terms for each batch. This one took 78 seconds. So, times by 10, what's that? 780 seconds roughly for a,000 keywords.",
+      "source_practitioner": "Stew Schaefer (AI for PPC)",
+      "video_url": "https://www.youtube.com/watch?v=_cI2u1-sS1M",
+      "credibility": 0.5,
+      "priority_score": 2.0
+    },
+    {
+      "claim_id": 304,
+      "claim_text": "Grow My Ads is productizing the same skill into a full in-house web tool that mines negatives without going through Claude UI; it currently surfaces the same categories (universal negatives, out-of-area, competitors like Amazon) but is not yet exposed to the public.",
+      "taxonomy": "dated",
+      "sub_taxonomy": "product_change",
+      "source_quote": "we are working on our own actual like fully blown built-out tools here at Grow My Ads that we're building skills for and... building it within our own software. Now, this is not available to the public... it found some out of area, it found some competitors, so Amazon",
+      "source_practitioner": "Grow My Ads",
+      "video_url": "https://www.youtube.com/watch?v=DxAlfMwWodk",
+      "credibility": 0.5,
+      "priority_score": 1.5
+    },
+    {
+      "claim_id": 2,
+      "claim_text": "Even exact match no longer means exact match \u2014 Google brings in analogous search terms regardless of match type.",
+      "taxonomy": "feature",
+      "sub_taxonomy": "platform_state",
+      "source_quote": "let's say that you're going after dentist san antonio and you're going exact match google still brings in search terms that ... are analogous to what it is that you're bidding for ... the fact that ... exact match doesn't necessarily mean exact match can get really frustrating",
+      "source_practitioner": "Solutions 8",
+      "video_url": "https://www.youtube.com/watch?v=ElxmYFHSVq4",
+      "credibility": 0.5,
+      "priority_score": 1.0
+    }
+  ],
+  "total_verifiable": 96
+}

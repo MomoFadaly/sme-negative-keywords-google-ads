@@ -1,0 +1,349 @@
+{
+  "verifications": [
+    {
+      "claim_id": 45,
+      "verified_status": "confirmed",
+      "confidence": 0.95,
+      "primary_source": {
+        "url": "https://support.google.com/google-ads/answer/2453972?hl=en",
+        "domain": "support.google.com",
+        "title": "About negative keywords - Google Ads Help",
+        "publish_date": null
+      },
+      "evidence_quote": "Negative keywords let you exclude search terms from your campaigns and help you focus on only the keywords that matter to your customers.",
+      "secondary_sources": [
+        {"url": "https://support.google.com/google-ads/answer/7102995?hl=en", "domain": "support.google.com"}
+      ],
+      "search_queries_tried": ["site:support.google.com negative keywords exclude search terms campaigns"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.05,
+        "reason": "Practitioner restated Google's exact language verbatim"
+      },
+      "notes": "Practitioner is reading near-verbatim from Google's own help doc."
+    },
+    {
+      "claim_id": 63,
+      "verified_status": "confirmed",
+      "confidence": 0.95,
+      "primary_source": {
+        "url": "https://support.google.com/google-ads/answer/2453972?hl=en",
+        "domain": "support.google.com",
+        "title": "About negative keywords - Google Ads Help",
+        "publish_date": null
+      },
+      "evidence_quote": "Negative keywords won't match to close variants or other expansions. For example, if you exclude the negative broad match keyword 'flowers', ads won't be eligible to serve when a user searches 'red flowers', but can serve if a user searches for 'red flower'.",
+      "secondary_sources": [
+        {"url": "https://support.google.com/google-ads/answer/7302992?hl=en", "domain": "support.google.com"},
+        {"url": "https://support.google.com/google-ads/answer/7302703?hl=en", "domain": "support.google.com"}
+      ],
+      "search_queries_tried": ["site:support.google.com negative keyword match types different positive keywords"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.05,
+        "reason": "Accurately characterizes a documented asymmetry: positive keywords expand to close variants, negative keywords do not."
+      },
+      "notes": "Google explicitly documents that negatives behave differently — they don't expand to close variants while positives do."
+    },
+    {
+      "claim_id": 98,
+      "verified_status": "partially_supported",
+      "confidence": 0.60,
+      "primary_source": {
+        "url": "https://www.ppcvideotraining.com/2322-negative-keywords-for-your-google-ads-campaign/",
+        "domain": "ppcvideotraining.com",
+        "title": "2322 Negative Keywords For Your Google Ads Campaign",
+        "publish_date": null
+      },
+      "evidence_quote": "There are 2300 negative keywords in the list... compiled over about the last five to ten years.",
+      "secondary_sources": [
+        {"url": "https://www.ppcvideotraining.com/", "domain": "ppcvideotraining.com"},
+        {"url": "https://www.mancinidigital.com/", "domain": "mancinidigital.com"}
+      ],
+      "search_queries_tried": ["Mike Mancini 2300 negative keywords list compiled nine years"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "Self-reported figure on his own marketing landing page is consistent (2300+/2322). 'Nine years' is within the 5-10 year range he cites elsewhere; primary source itself rather than independent verification."
+      },
+      "notes": "Mancini's own product page lists 2322; 'nine years' is plausible given the 5-10 year range he cites publicly. No independent third-party validation, but practitioner's own claim is consistent across sources."
+    },
+    {
+      "claim_id": 103,
+      "verified_status": "partially_supported",
+      "confidence": 0.60,
+      "primary_source": {
+        "url": "https://support.google.com/google-ads/answer/2453972?hl=en",
+        "domain": "support.google.com",
+        "title": "About negative keywords - Google Ads Help",
+        "publish_date": null
+      },
+      "evidence_quote": "Negative keywords let you exclude search terms from your campaigns and help you focus on only the keywords that matter to your customers.",
+      "secondary_sources": [
+        {"url": "https://searchengineland.com/google-ads-search-term-filters-cut-wasted-spend-458977", "domain": "searchengineland.com"},
+        {"url": "https://www.optmyzr.com/blog/negative-keywords/", "domain": "optmyzr.com"}
+      ],
+      "search_queries_tried": ["Google Ads ads showing irrelevant search terms wasted budget ROAS official"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "General industry consensus and Google's own framing support this; specific ROAS-reduction wording is practitioner phrasing not in Google's docs."
+      },
+      "notes": "The general claim (Google can show ads on irrelevant searches, wasting budget) is universally accepted and implicit in Google's own negative-keyword docs. The specific 'reducing ROAS' framing is practitioner phrasing, which is why partial rather than confirmed."
+    },
+    {
+      "claim_id": 124,
+      "verified_status": "contradicted",
+      "confidence": 0.10,
+      "primary_source": {
+        "url": "https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/consumer-journey/navigating-purchase-behavior-and-decision-making/",
+        "domain": "thinkwithgoogle.com",
+        "title": "Decoding Decisions: The purchase behaviour - Think with Google",
+        "publish_date": null
+      },
+      "evidence_quote": "A fictional cereal brand (the least effective challenger) still managed to win 28% of shopper preference from the established favorite when it was 'supercharged' with benefits, including five-star reviews and an offer of 20% extra for free.",
+      "secondary_sources": [
+        {"url": "https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf", "domain": "thinkwithgoogle.com"}
+      ],
+      "search_queries_tried": [
+        "Google study second choice brand 30% switch entice shopper",
+        "\"Decoding Decisions\" \"messy middle\" Google research second choice 28% supercharged cereal"
+      ],
+      "credibility_signal_for_practitioner": {
+        "delta": -0.10,
+        "reason": "Misquoted a Google statistic. The cereal-brand result was 28% (and it required full 'supercharging' with reviews + 20% free, not merely 'giving the option'). Other Decoding Decisions percentages are 26% (hotels — just showing up), 53% (hotels supercharged), 87% (insurance supercharged). The 30% figure with the wording 'simply giving the option' does not appear in the source."
+      },
+      "notes": "The claim conflates two things: the actual Google study used full behavioural-science 'supercharging' (5-star reviews + 20% extra free), not 'simply giving the option to choose.' The actual headline number was 28%, not 30%. Misattribution of methodology and figure."
+    },
+    {
+      "claim_id": 131,
+      "verified_status": "confirmed",
+      "confidence": 0.95,
+      "primary_source": {
+        "url": "https://support.google.com/google-ads/answer/11396330?hl=en",
+        "domain": "support.google.com",
+        "title": "About account-level negative keywords - Google Ads Help",
+        "publish_date": null
+      },
+      "evidence_quote": "A limit of 1,000 negative keywords can be excluded for each account.",
+      "secondary_sources": [
+        {"url": "https://support.google.com/google-ads/answer/2453983?hl=en", "domain": "support.google.com"}
+      ],
+      "search_queries_tried": ["site:support.google.com account level negative keyword list maximum 1000 limit"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.05,
+        "reason": "Exact number (1,000) at exact scope (account-level) confirmed by Google's own docs."
+      },
+      "notes": "Note distinction: account-level negative keywords = 1,000 limit; reusable negative keyword *lists* = up to 5,000 keywords each, max 20 lists. Practitioner's claim refers to the 1,000 account-level cap, which is correct."
+    },
+    {
+      "claim_id": 167,
+      "verified_status": "partially_supported",
+      "confidence": 0.60,
+      "primary_source": {
+        "url": "https://support.google.com/google-ads/answer/13020501?hl=en",
+        "domain": "support.google.com",
+        "title": "Duration of the learning period for campaigns and what affects it - Google Ads Help",
+        "publish_date": null
+      },
+      "evidence_quote": "Significant changes to budget or bidding can trigger a new learning period.",
+      "secondary_sources": [
+        {"url": "https://www.dilate.com.au/blog/the-right-way-to-scale-google-ads-budgets-without-wrecking-performance/", "domain": "dilate.com.au"},
+        {"url": "https://groas.ai/post/google-ads-learning-phase-explained-why-your-campaigns-need-2-weeks-to-work-and-how-to-stop-resetting-it", "domain": "groas.ai"}
+      ],
+      "search_queries_tried": ["Google Ads budget change 20% smart bidding learning period"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "20% rule of thumb is widely cited industry heuristic for avoiding learning-phase reset, but Google itself does not publish a specific 20% threshold. Practitioner-credible but not officially published."
+      },
+      "notes": "Google says 'significant' changes trigger relearning but doesn't publish a 20% number. The 20% rule is a widely echoed industry heuristic across PPC publications. Practitioner consensus, not Google-confirmed."
+    },
+    {
+      "claim_id": 176,
+      "verified_status": "unverifiable",
+      "confidence": 0.45,
+      "primary_source": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "publish_date": null
+      },
+      "evidence_quote": null,
+      "secondary_sources": [],
+      "search_queries_tried": ["Aaron Young Definitive Marketing 30000 month n-gram swot report Google Ads"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "Anecdotal practitioner statement about a specific account's spend. Cannot be independently verified — but the broader claim that n-gram/SWOT reporting becomes more valuable at scale is uncontroversial."
+      },
+      "notes": "Specific account spend ($30k/month) is unverifiable from public sources — it's an anecdote about a specific client. The general claim about n-gram analysis being more valuable at scale is widely supported."
+    },
+    {
+      "claim_id": 178,
+      "verified_status": "partially_supported",
+      "confidence": 0.60,
+      "primary_source": {
+        "url": "https://www.stackmatix.com/blog/google-ads-negative-keywords-guide",
+        "domain": "stackmatix.com",
+        "title": "Google Ads Negative Keywords: Stop Wasting Ad Spend",
+        "publish_date": null
+      },
+      "evidence_quote": "Accounts without negative keywords waste 30-50% of their budget on searches like 'free,' 'jobs,' 'DIY,' 'reviews,' and competitor research queries.",
+      "secondary_sources": [
+        {"url": "https://www.optmyzr.com/blog/negative-keywords/", "domain": "optmyzr.com"},
+        {"url": "https://www.keywordme.io/blog/google-ads-irrelevant-search-terms", "domain": "keywordme.io"}
+      ],
+      "search_queries_tried": ["Ben Heath Google Ads negative keywords lose 30% 50% 70% budget irrelevant"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "30%-50% range is widely cited and supported. 70% is at the extreme end, plausible for unmanaged accounts but not the published norm. Heath's framing as a range ('30%, 50%, or 70%') is anecdotal range from his own experience."
+      },
+      "notes": "Multiple industry sources confirm 30-50% waste is realistic. 70% is extreme but possible for severely mismanaged accounts. Heath's statement is presented as anecdotal range, which is consistent with industry experience."
+    },
+    {
+      "claim_id": 237,
+      "verified_status": "confirmed",
+      "confidence": 0.95,
+      "primary_source": {
+        "url": "https://shabba.io/google_ads_scripts/",
+        "domain": "shabba.io",
+        "title": "Free Google Ads Scripts - Shabba",
+        "publish_date": null
+      },
+      "evidence_quote": "All scripts are free and open source. Turn your search terms into nGrams.",
+      "secondary_sources": [
+        {"url": "https://www.wordstream.com/blog/n-gram-google-ads-script", "domain": "wordstream.com"},
+        {"url": "https://www.ayima.com/insights/ngram-script-for-google-ads.html", "domain": "ayima.com"},
+        {"url": "https://gist.github.com/BrainlabsDigital/5898a9b990960fc5f302", "domain": "gist.github.com"}
+      ],
+      "search_queries_tried": ["\"n-gram\" script Google Ads search terms free open source"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.05,
+        "reason": "Multiple free n-gram scripts are publicly available and findable via Google search (Shabba, WordStream, Ayima, Brainlabs). Easily verified."
+      },
+      "notes": "At least four independent free n-gram scripts are publicly hosted and findable in seconds."
+    },
+    {
+      "claim_id": 262,
+      "verified_status": "partially_supported",
+      "confidence": 0.60,
+      "primary_source": {
+        "url": "https://searchengineland.com/google-hiding-search-data-advertisers-profiting-446372",
+        "domain": "searchengineland.com",
+        "title": "Google is hiding search data from advertisers and profiting",
+        "publish_date": null
+      },
+      "evidence_quote": "20% to 80% of search term data in Google Ads is hidden from advertisers... approximately 40% of all search term data is hidden on average.",
+      "secondary_sources": [
+        {"url": "https://marlinsem.com/google-ads-missing-search-terms/", "domain": "marlinsem.com"},
+        {"url": "https://www.adthena.com/resources/blog/how-hidden-search-terms-are-impacting-your-google-ads/", "domain": "adthena.com"}
+      ],
+      "search_queries_tried": ["Google Ads search terms report redacted privacy 80% missing terms hidden"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "The 80% upper bound is real and documented in Search Engine Land; the average is closer to 40-51%. Practitioner's '80% for some clients' framing is consistent with the range, but is the high end, not the norm."
+      },
+      "notes": "Search Engine Land documents the 20%-80% range. 80% is the upper extreme rather than typical. Privacy justification by Google is verified ('do not meet our privacy thresholds')."
+    },
+    {
+      "claim_id": 276,
+      "verified_status": "unverifiable",
+      "confidence": 0.45,
+      "primary_source": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "publish_date": null
+      },
+      "evidence_quote": null,
+      "secondary_sources": [
+        {"url": "https://heathmedia.co.uk/", "domain": "heathmedia.co.uk"}
+      ],
+      "search_queries_tried": ["Ben Heath agency 523782 negative keywords ROAS clients"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "Self-reported aggregate count from his own dashboard. No external way to verify; not implausible for an agency with 5,000+ clients."
+      },
+      "notes": "The number is highly specific (suggests a real screen capture) but is not independently verifiable. Not contradicted; Heath Media has 5,000+ clients per their site, so a six-figure aggregate negative-keyword count is plausible."
+    },
+    {
+      "claim_id": 314,
+      "verified_status": "unverifiable",
+      "confidence": 0.45,
+      "primary_source": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "publish_date": null
+      },
+      "evidence_quote": null,
+      "secondary_sources": [
+        {"url": "https://www.flowhunt.io/blog/ppc-ai-importance-of-negative-keywords-automation/", "domain": "flowhunt.io"}
+      ],
+      "search_queries_tried": ["\"Stew Schaefer\" \"AI for PPC\" Gemini negative keywords agent batch search terms"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "Demo runtime numbers from a specific run shown on screen. Not independently verifiable but plausible for Gemini 3 Pro processing 120 search terms; arithmetic checks out (78s × 10 ≈ 780s ≈ 13 min for 1,000 terms)."
+      },
+      "notes": "Live-demo runtime statistic. The arithmetic is internally consistent. No third-party benchmark to confirm, but plausible for current Gemini 3 Pro inference latencies on this batch size."
+    },
+    {
+      "claim_id": 304,
+      "verified_status": "partially_supported",
+      "confidence": 0.60,
+      "primary_source": {
+        "url": "https://www.youtube.com/watch?v=DxAlfMwWodk",
+        "domain": "youtube.com",
+        "title": "How I Automated Negative Keywords in Google Ads (With Claude)",
+        "publish_date": null
+      },
+      "evidence_quote": "How I Automated Negative Keywords in Google Ads (With Claude) - Grow My Ads",
+      "secondary_sources": [
+        {"url": "https://insightfulpipe.com/marketing-claude-skills/google-ads/negative-keyword-implementer", "domain": "insightfulpipe.com"},
+        {"url": "https://searchengineland.com/claude-skills-ppc-scalable-systems-474221", "domain": "searchengineland.com"}
+      ],
+      "search_queries_tried": ["\"Grow My Ads\" Claude negative keyword tool internal proprietary skill"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.0,
+        "reason": "Statement about an internal/in-progress tool not yet public — by definition cannot be confirmed against external docs. Self-reported and product-roadmap. Industry context (multiple Claude-skill negative-keyword tools exist) makes claim plausible."
+      },
+      "notes": "The claim is about a not-yet-public tool the agency is building — internal product state. This is unverifiable in principle but consistent with the broader trend of Claude-skill PPC tools."
+    },
+    {
+      "claim_id": 2,
+      "verified_status": "confirmed",
+      "confidence": 0.95,
+      "primary_source": {
+        "url": "https://support.google.com/google-ads/answer/9342105?hl=en",
+        "domain": "support.google.com",
+        "title": "Keyword close variants: Definition - Google Ads Help",
+        "publish_date": null
+      },
+      "evidence_quote": "Close variants allow keywords to match to searches that are similar, but not identical to the targeted keyword.",
+      "secondary_sources": [
+        {"url": "https://support.google.com/google-ads/answer/7478529?hl=en", "domain": "support.google.com"}
+      ],
+      "search_queries_tried": ["Google Ads exact match close variants 2026 not exact match analogous searches"],
+      "credibility_signal_for_practitioner": {
+        "delta": 0.05,
+        "reason": "Accurately characterizes Google's documented expansion of exact match to include close variants, synonyms, intent matches, and reordered/implied words."
+      },
+      "notes": "Google's own docs explicitly confirm exact match now includes misspellings, plurals, function-word changes, reordering, synonyms, and intent-based matching — exactly what 'analogous to what you're bidding for' describes."
+    }
+  ],
+  "summary": {
+    "confirmed": 5,
+    "partially_supported": 6,
+    "contradicted": 1,
+    "not_addressed": 0,
+    "source_outdated": 0,
+    "unverifiable": 3,
+    "credibility_deltas_by_practitioner": {
+      "Grow My Ads": 0.10,
+      "Mike Mancini": 0.0,
+      "Max | Google Ads Nerd": -0.10,
+      "Ammar | Google Ads For Leads": 0.05,
+      "Aaron Young": 0.0,
+      "Ben Heath - Google Ads": 0.0,
+      "Ben Heath": 0.0,
+      "Darren Taylor": 0.0,
+      "Stew Schaefer (AI for PPC)": 0.0,
+      "Solutions 8": 0.05
+    }
+  }
+}
